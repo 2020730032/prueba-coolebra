@@ -9,6 +9,11 @@
 git clone https://github.com/2020730032/prueba-coolebra
 ```
 
+### Cd into prueba-coolebra folder
+```
+cd pregunta-4
+```
+
 ### Cd into pregunta-4 folder
 ```
 cd pregunta-4
